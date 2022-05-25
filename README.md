@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucasvvmartins
+- 👀 I’m interested in Python, Ruby, NodeJs, Django
+- 🌱 I’m currently learning Python, SQL
+- 💞️ I’m looking to collaborate on Python
